@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hello Everyone :) New user Register for the pmj DevOps Learning created by Praveen m j</h1>
-    <p>Please fill in this blank form to create a new account.</p>
+    <p>Please fill this form to create a new account.</p>
     <hr>
      
     <label for="Name"><b>hello praveen please enter any another name</b></label>
